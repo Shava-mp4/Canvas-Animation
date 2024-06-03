@@ -368,11 +368,11 @@ function keyboardHandler(event) {
     bgColour2 = "rgb(255, 190, 121)";
     bgColour3 = "rgb(255, 220, 139)";
     starColour = "rgb(0, 0, 0, 0)";
-    phaseColour = "rgb(0, 0, 0, 0)"
-    cloudColour1 = "white"
-    cloudColour2 = "rgb(255, 249, 234)"
-    bgCSpeed = 0
-    phaseSpeed = 0
+    phaseColour = "rgb(0, 0, 0, 0)";
+    cloudColour1 = "white";
+    cloudColour2 = "rgb(255, 249, 234)";
+    bgCSpeed = 0;
+    phaseSpeed = 0;
   }
 }
 
