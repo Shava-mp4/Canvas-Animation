@@ -1,0 +1,13 @@
+html {
+    background-color: black;
+  }
+  
+  body {
+    text-align: center;
+    margin: 150px;
+  }
+  
+  #myCanvas {
+    border: 2px solid black;
+  }
+
