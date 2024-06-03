@@ -350,8 +350,10 @@ function draw() {
     star20 = 260;
   }
 
-  ctx.font = "10px Georgia";
+  ctx.font = "8px Georgia";
   ctx.fillText("Frame: " + frame, 20, 20);
+  ctx.font = "10px Georgia";
+  ctx.fillText("Press 'D' to change to day", 480, 395);
 
   requestAnimationFrame(draw);
 }
